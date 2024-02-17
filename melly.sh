@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Description: Variables in scripting
-# Author: Paul Momo
+# Author: Melly Tsotie
 # Date: 2/17/2024
 
 FIRST_NAME=princeton
