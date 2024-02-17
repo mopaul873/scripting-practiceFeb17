@@ -1,10 +1,10 @@
 #!/bin/bash
 
-# Description
+# Description: bash scripting practice
 
-# Author:
+# Author:Princeton Jayden Jukane-Momo
 
-# Date:
+# Date:02/17/2024
 
 yum install finger -y
 yum install curl -y
