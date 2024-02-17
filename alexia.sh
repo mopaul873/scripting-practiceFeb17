@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# Description
-# Author:
-# Date:
+# Description: bash scripting practice
+# Author:Alexia Joy Jukane-Momo
+# Date:02/17/2024
 
 
 NAME=Kate
